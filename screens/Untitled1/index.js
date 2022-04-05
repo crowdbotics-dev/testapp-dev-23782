@@ -20,8 +20,8 @@ const Untitled1 = () => {
       borderColor: "#1ede33",
       borderWidth: 8
     }}><View style={{
-        left: -68,
-        top: 9,
+        left: -8,
+        top: -8,
         position: "absolute",
         height: 60,
         width: 140,
